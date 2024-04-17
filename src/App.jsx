@@ -3,7 +3,7 @@ import { AppProvidersWrapper, BackToTop } from "./components";
 import AllRoutes from "./routes/Routes";
 import { configureFakeBackend } from "@/common";
 
-// styles
+// styles test
 import "@/assets/css/style.css";
 
 configureFakeBackend();
